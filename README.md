@@ -12,7 +12,7 @@ This was just a quick project I did for fun. Do with it what you will!
 
 # Demo
 
-Live demo at: [https://meeting-cost-calculator.puggy.gg/]([https://meeting-cost-calculator.puggy.gg/](https://meeting-cost-calculator.puggy.gg/))
+Live demo at: https://meeting-cost-calculator.joshpayette.dev/
 
 ## Installation
 
